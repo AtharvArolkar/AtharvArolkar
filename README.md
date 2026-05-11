@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,8&height=250&section=header&text=Atharv%20Arolkar&fontSize=80&desc=Full-Stack%20Developer%20%7C%20Team%20Lead&descAlignY=70&descAlign=50" alt="Atharv's Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,8&height=250&section=header&text=Atharv%20Arolkar&fontSize=80&desc=Full-Stack%20Developer%20%7C%20Lead%20Software%20Engineer&descAlignY=70&descAlign=50" alt="Atharv's Header Banner" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Atharv Arolkar</h1>
-<h3 align="center">Full-Stack Developer | Lead Software Engineer| Tech Enthusiast from India</h3>
+<h3 align="center">Full-Stack Developer | Lead Software Engineer | Tech Enthusiast from India</h3>
 
 <br/>
 
@@ -44,19 +44,19 @@
 ### 🛠️ Languages and Tools
 
 **Frontend & Mobile:**<br>
-<div style="display: flex;gap: 2px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45" />
-</div>
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
 **Backend & Core Languages:**<br>
-<div style="display: flex;gap: 2px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" />
-</div>
+[![Backend Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,java,python,cs,dotnet,php)](https://skillicons.dev)
 
 **Databases:**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 **AI Tools:**<br>
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google%20Gemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Amazon%20Q-FF9900.svg?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white" alt="Amazon Q" />
 
 <br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvarolkar&label=Profile%20Views&color=7b88ff&style=flat-square" alt="Profile Views" />
+</div>
