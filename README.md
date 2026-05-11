@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHPCuy5yCcHfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724121889763?e=1729728000&v=beta&t=Z_N3egLpeNXqaP1egY4iQ5N82Z1xQoRb1PxqSFSBjRk" alt="Atharv's Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,8&height=250&section=header&text=Atharv%20Arolkar&fontSize=80&desc=Full-Stack%20Developer%20%7C%20Team%20Lead&descAlignY=70&descAlign=50" alt="Atharv's Header Banner" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Atharv Arolkar</h1>
-<h3 align="center">Full-Stack Developer | Team Lead | Tech Enthusiast from India</h3>
+<h3 align="center">Full-Stack Developer | Lead Software Engineer| Tech Enthusiast from India</h3>
 
 <br/>
 
@@ -56,20 +56,3 @@
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 
 <br/>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvarolkar&show_icons=true&theme=tokyonight&hide_border=true" alt="Atharv's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvarolkar&theme=tokyonight&hide_border=true" alt="Atharv's GitHub Streak" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvarolkar&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvarolkar&label=Profile%20Views&color=7b88ff&style=flat-square" alt="Profile Views" />
-</div>
